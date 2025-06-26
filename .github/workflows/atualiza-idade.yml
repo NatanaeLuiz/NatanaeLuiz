@@ -21,7 +21,7 @@ jobs:
         run: npm install
 
       - name: Rodar script para atualizar idade
-        run: node atualizaIdade.js
+        run: node atualizarIdade.js
 
       - name: Commit e push se houver mudanças
         run: |
