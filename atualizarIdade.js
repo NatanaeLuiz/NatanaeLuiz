@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from 'fs';
 
 // 🗓️ Coloque seu ano de nascimento aqui:
 const anoNascimento = 1997;
