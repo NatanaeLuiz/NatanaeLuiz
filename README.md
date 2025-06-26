@@ -12,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-luiz-10/)](https://www.linkedin.com/in/natanael-luiz-10/)
 
 ## 🙋‍♂️ Sobre
-- Idade: 26 
+- Idade: 27 
 - Graduado em Ciência da Computação
 - Atualmente sou Desenvolvedor FullStack na [@MAGNA](https://www.magnasistemas.com.br/wps/portal/internet).
 - [Curriculo online](https://natanaeluiz.github.io/resume/).
